@@ -12,7 +12,7 @@ Para ejecutar la guía de laboratorio es necesario seguir los siguientes pasos p
     * En caso de no funcionar instalar con pip: `pip install datasets`.
 6. Instalar [Fastprogress](https://github.com/fastai/fastprogress): `pip install fastprogress`.
 7. Iniciar `Anaconda Navigator`
-    * **Windows:** Anaconda instala autométicamente anaconda navigator, solo se debe ejecutar el acceso directo.
+    * **Windows:** Anaconda instala automáticamente anaconda navigator, solo se debe ejecutar el acceso directo.
     * **Linux:** En una terminal luego de la instalación de anaconda usar el comando `anaconda-navigator`.
 8. Iniciar **Jupyter Notebook** o **Jupyter Lab** y abrir el archivo `Guía laboratorio - CNN.ipynb`.
 
