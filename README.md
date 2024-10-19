@@ -4,6 +4,7 @@
 Para ejecutar la guía de laboratorio es necesario seguir los siguientes pasos para tener listo el entorno.
 1.  Instalar [Anaconda Distribution](https://www.anaconda.com/download).
     * Para Linux usar las siguientes [intrucciones](https://docs.anaconda.com/anaconda/install/linux/).
+2.  En **Windows** abrir `Anaconda Prompt` o `Terminal`.
 2.  Instalar [PyTorch](https://pytorch.org/get-started/locally/) seleccionando la opción `Conda`.
 3.  Instalar la librería de [FastCore](https://fastcore.fast.ai/): `conda install fastcore -c fastai`.
 4.  Instalar [Hugginface Hub](https://huggingface.co/docs/huggingface_hub/installation): `conda install -c conda-forge huggingface_hub`.
